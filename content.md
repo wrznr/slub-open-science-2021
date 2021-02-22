@@ -269,7 +269,7 @@ count: false
 
 - Kreis gemeinsam schließen!
     + Verbindung der Beratungsangebote der TUD mit denen der SLUB
-    + Berücksichtigung fachspezifischer Aspekte in Ergänzung zu
+    + Berücksichtigung fachspezifischer Aspekte in Ergänzung zur
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
     + curriculare Einbettung
 
