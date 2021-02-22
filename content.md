@@ -48,9 +48,9 @@ count: false
 - Motivation
 - Überblick über existierende Services an der SLUB
     + *Open Education*
+    + *Open Data*
     + *Open Evaluation*
     + *Open Access*
-    + *Open Data*
     + *Citizen Science*
 - die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
 - das Open Science Lab als Ort der Begegnung
@@ -148,6 +148,7 @@ count: false
 ## Forschungsdatenmanagement
 
 - insbesondere **gemeinsame Kontaktstelle Forschungsdaten**
+- Beteiligung an **NFDI4Culture** und **NFDI4Ing**
 - Beratungs- und Vermittlungsangebote
     + während der Antragsphase
         * Datenmanagementpläne
@@ -161,6 +162,18 @@ count: false
     + Implementierungsaufträge
         * Werkzeuganpassung
         * Datenbankschemata
+
+---
+
+## Publikationsberatung
+
+---
+
+## Open-Access-Transformation
+
+---
+
+## Gesamtgesellschaftlicher Transfer
 
 ---
 
