@@ -263,9 +263,7 @@ count: false
 
 ---
 
-## gemeinsames *Open Science Center*
-
-<center><img src="img/forschungskreislauf.png" width="300px" /></center>
+<center><img src="img/forschungskreislauf.png" width="350px" /></center>
 
 - Kreis gemeinsam schließen!
     + Verbindung der Beratungsangebote der TUD mit denen der SLUB
