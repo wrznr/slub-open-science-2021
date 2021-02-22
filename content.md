@@ -105,6 +105,7 @@ count: false
         * themenspezifische Recherche (Fachreferenten)
         * virtuelle Forschungsumgebungen
     + Semestereinführung
+    + Graduiertenakademie
 - Services
     + Auftragsrecherchen
     + Kauftipps
@@ -188,9 +189,26 @@ count: false
 
 ## Open-Access-Transformation
 
+- Schwerpunkt im **Bestandsaufbau**
+- Beratungs- und Vermittlungsangebote
+     + regelmäßige Vortragstätikeit
+         * Open-Access-Tage
+         * Graduiertenakademie
+     + *Predatory Publishing*
+- Services
+     + Finanzierung von Open-Access-Publikationen
+         * Zeitschriften
+         * Monographien
+- Werkzeuge
+     + *Qucosa*
+         * (Zweit-)Veröffentlichungsplattform
+         * Dissertationen, Studienarbeiten
+     + *Qucosa Journals*
+         * OJS-basierte Plattform für OA-Zeitschriften
+
 ---
 
-## Gesamtgesellschaftlicher Transfer
+## gesamtgesellschaftlicher Transfer
 
 ---
 
