@@ -53,7 +53,7 @@ count: false
     + *Open Access*
     + *Citizen Science*
 - die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
-- Perspektiven für ein gemeinsames **Open Science Center**
+- Perspektive für ein gemeinsames **Open Science Center**
 
 ---
 
@@ -259,11 +259,11 @@ count: false
 class: part-slide
 count: false
 
-# Perspektiven für ein gemeinsames *Open Science Center*
+# Perspektive für ein gemeinsames *Open Science Center*
 
 ---
 
-## Perspektiven für ein gemeinsames *Open Science Center*
+## Perspektive für ein gemeinsames *Open Science Center*
 
 <center><img src="img/forschungskreislauf.png" width="300px" /></center>
 
@@ -273,7 +273,7 @@ count: false
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
     + curriculare Einbettung
 
-Open Science Lab → Open Science Center
+<center><b>Open Science Lab → Open Science Center</b><center>
 
 ---
 
