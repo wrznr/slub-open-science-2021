@@ -74,23 +74,6 @@ count: false
 > Forschungsdatenmanagement, zum wissenschaftlichen Schreiben
 > und Publizieren oder zur Wirkungsanalyse von Publikationen.
 
-
----
-
-## Forschungskreislauf
-
-.cols[
-.forty[
-<center><img src="img/verbindung_forschung-openscience.png" width="300px" /></center>
-]
-.sixty[
-- Anpassung existierender Services
-- perspektivisch Ergänzung um fehlende Bereiche
-- Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens
-- Ziel: Infrastruktur für offene Wissenschaften
-]
-]
-
 ---
 
 class: part-slide
