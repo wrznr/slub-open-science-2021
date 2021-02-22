@@ -197,14 +197,13 @@ count: false
 
 - Schwerpunkt im **Bestandsaufbau**
 - Beratungs- und Vermittlungsangebote
-    + regelmäßige Vortragstätikeit
+    + regelmäßige Vortragstätikeit z.B.
         * Open-Access-Tage
         * Graduiertenakademie
     + *Predatory Publishing*
 - Services
     + Finanzierung von Open-Access-Publikationen
-        * Zeitschriften
-        * Monographien
+        * Zeitschriften und Monographien
 - Werkzeuge
     + *Qucosa*
         * (Zweit-)Veröffentlichungsplattform
