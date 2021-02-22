@@ -238,7 +238,7 @@ count: false
 
 ---
 
-## SLUB Lab-Landschaft
+## SLUB Labs
 
 - Labs als räumliche Manifestation einer offenen, partizipativen Wissenskultur
     * SLUB TextLab
