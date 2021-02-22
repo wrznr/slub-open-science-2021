@@ -53,7 +53,6 @@ count: false
     + *Open Access*
     + *Citizen Science*
 - die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
-- das Open Science Lab als Ort der Begegnung
 - Perspektiven für ein gemeinsames **Open Science Center**
 
 ---
@@ -182,8 +181,6 @@ count: false
      + bibliometrische Analysen
          * Individualevaluation
          * Publikationsmonitoring
-- Werkzeuge
-     + *Serial Fact Sheet*
 
 ---
 
@@ -191,24 +188,38 @@ count: false
 
 - Schwerpunkt im **Bestandsaufbau**
 - Beratungs- und Vermittlungsangebote
-     + regelmäßige Vortragstätikeit
-         * Open-Access-Tage
-         * Graduiertenakademie
-     + *Predatory Publishing*
+    + regelmäßige Vortragstätikeit
+        * Open-Access-Tage
+        * Graduiertenakademie
+    + *Predatory Publishing*
 - Services
-     + Finanzierung von Open-Access-Publikationen
-         * Zeitschriften
-         * Monographien
+    + Finanzierung von Open-Access-Publikationen
+        * Zeitschriften
+        * Monographien
 - Werkzeuge
-     + *Qucosa*
-         * (Zweit-)Veröffentlichungsplattform
-         * Dissertationen, Studienarbeiten
-     + *Qucosa Journals*
-         * OJS-basierte Plattform für OA-Zeitschriften
+    + *Qucosa*
+        * (Zweit-)Veröffentlichungsplattform
+        * Dissertationen, Studienarbeiten
+    + *Qucosa Journals*
+        * OJS-basierte Plattform für OA-Zeitschriften
 
 ---
 
 ## gesamtgesellschaftlicher Transfer
+
+- Doppelfunktion als Universitäts- und **Landesbibliothek**
+- traditionell breites Spektrum an Nutzenden
+    + Zugriff auf **bürgerwissenschaftliche** Kontexte
+- Beratungs- und Vermittlungsangebote
+    + alle Angebote offen
+    + Hackathons, Transcibathons
+        * *Sachsen at Work*
+        * *Coding da Vinci* 2022
+    + *Wikisource*-Beratung
+    + Dresdner Seniorenakademie
+- Werkzeuge z.B.
+    + virtuelles Kartenforum
+        * kollaborative Georeferenzierung historischer Karten
 
 ---
 
@@ -219,10 +230,20 @@ count: false
 
 ---
 
-class: part-slide
-count: false
+## Lab-Landschaft
 
-# Ort der Begegnung
+- SLUB TextLab
+    + Fokus **textuelle Materialien**
+    + wissenschaftliches Schreiben (und Lesen)
+- SLUB Makerspace
+    + Fokus **Werkstoffe und Technik**
+    + offene Werkstatt und Kreativraum
+- SLUB Musicspace
+    + Fokus **Musikalien**
+    + kreative Auseinandersetzung mit den audio-visuellen Medien der SLUB
+- SLUB Open Science Lab
+    + Fokus **forschungsnahe Dienste**
+    + Services rund um einen offenen Forschungskreislauf
 
 ---
 
@@ -233,9 +254,23 @@ count: false
 
 ---
 
+## Perspektiven für ein gemeinsames *Open Science Center*
+
+<center><img src="img/forschungskreislauf.png" width="300px" /></center>
+
+- Kreis gemeinsam schließen!
+    + Verbindung der Beratungsangebote der TUD mit denen der SLUB
+    + Berücksichtigung fachspezifischer Aspekte in Ergänzung zu
+    + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
+    + curriculare Einbettung
+
+Open Science Lab → Open Science Center
+
+---
+
 class: part-slide
 
-# Many thanks for your attention!
+# Vielen Dank für Ihre Aufmerksamkeit
 
 <center>
 <a href="https://wrznr.github.io/slub-open-science-2021/">wrznr.github.io/slub-open-science-2021</a>
