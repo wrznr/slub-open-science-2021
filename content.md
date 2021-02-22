@@ -240,16 +240,13 @@ count: false
 
 ## SLUB Labs
 
-- Labs als räumliche Manifestation einer offenen, partizipativen Wissenskultur
+- Labs als räumliche Manifestation einer offenen, anwendungsorientierten, partizipativen Wissenskultur
     * SLUB TextLab
         + Fokus **textuelle Materialien**
         + wissenschaftliches Schreiben (und Lesen)
     * SLUB Makerspace
         + Fokus **Werkstoffe und Technik**
         + offene Werkstatt und Kreativraum
-    * SLUB Musicspace
-        + Fokus **Musikalien**
-        + kreative Auseinandersetzung mit den audio-visuellen Medien der SLUB
     * Open Science Center
         + Fokus **forschungsnahe Dienste**
         + Services rund um einen offenen Forschungskreislauf
