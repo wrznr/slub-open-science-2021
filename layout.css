@@ -1,4 +1,4 @@
-* { font-family:'Bitter',serif }
+* { font-family: 'VisSlabReg',Arial,Helvetica,sans-serif }
 
 a { color:#00afc8; text-decoration:none; font-family:monospace }
 
@@ -34,7 +34,7 @@ ul > li > ol > li > ul > li { font-size:1.1rem }
 .red { color:#c00 }
 .green { color:#0f0 }
 
-.remark-slide-content h1 { font-size:2.5rem; margin-top:0; color:#cc0000;  font-family: 'Open Sans', sans-serif }
+.remark-slide-content h1 { font-size:2.5rem; margin-top:0; color:#cc0000;  font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
 .remark-slide-content h2 { font-size:2.5rem }
 .remark-slide-content { padding:1em 1em }
 
@@ -42,12 +42,12 @@ ul > li > ol > li > ul > li { font-size:1.1rem }
 
 .remark-slide-number { bottom:15px; right:70px; font-size:8pt }
 
-.title-slide h1 { text-align:left; margin-top:80px; font-family: 'Open Sans', sans-serif }
-.title-slide h2 { font-size:2rem; color:#000; text-align:left; margin-top:30px; font-family: 'Open Sans', sans-serif }
+.title-slide h1 { text-align:left; margin-top:80px; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
+.title-slide h2 { font-size:2rem; color:#000; text-align:left; margin-top:30px; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
 .title-slide .remark-slide-number { display:none }
 
-.part-slide h1 { text-align:center; margin-top:80px; font-family: 'Open Sans', sans-serif }
-.part-slide h2 { font-size:2rem; color:#000; text-align:center; margin-top:30px; font-family: 'Open Sans', sans-serif }
+.part-slide h1 { text-align:center; margin-top:80px; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
+.part-slide h2 { font-size:2rem; color:#000; text-align:center; margin-top:30px; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
 .part-slide .remark-slide-number { display:none }
 
 .my-header {
@@ -69,17 +69,17 @@ ul > li > ol > li > ul > li { font-size:1.1rem }
   left: 30px;
   height: 50px;
   width: 90%;
-  font-family: 'Open Sans', sans-serif
+  font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif
 }
 
 .my-footer td {
   font-size: 8pt;
   color: #222;
   padding:0px 10px;
-  font-family: 'Open Sans', sans-serif
+  font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif
 }
 
-.my-footer a { color:#cc0000; text-decoration:none; font-family: 'Open Sans', sans-serif }
+.my-footer a { color:#cc0000; text-decoration:none; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
 .my-footer thead { background:#fff }
 .my-footer tbody tr:nth-child(even) { background:transparent }
 
@@ -113,15 +113,15 @@ ul > li > ol > li > ul > li { font-size:1.1rem }
   width: 100%;
   bottom: 0px;
   left: 0px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif;
 }
-.title-slide .my-title-footer a { color:#fff; text-decoration:none; font-family: 'Open Sans', sans-serif }
+.title-slide .my-title-footer a { color:#fff; text-decoration:none; font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif }
 
 .title-slide .my-title-footer td {
   font-size: 12pt;
   color: #fff;
   padding:0px 10px;
-  font-family: 'Open Sans', sans-serif
+  font-family: 'VisSansBook', Helvetica, Arial, Sans-Serif
 }
 
 /*.title-slide .my-title-footer tbody { background: transparent }*/
