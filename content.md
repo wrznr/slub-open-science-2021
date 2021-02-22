@@ -94,6 +94,57 @@ count: false
 
 ---
 
+## Informieren und Recherchieren
+
+- bibliothekarisches Kerngeschäft
+- Werkzeuge
+    + Katalog
+    + Digitale Sammlungen
+- Beratungs- und Vermittlungsangebote
+    + Wissensbar u.a.
+        * themenspezifische Recherche (Fachreferenten)
+        * virtuelle Forschungsumgebungen
+    + Semestereinführung
+- Services
+    + Auftragsrecherchen
+    + Kauftipps
+
+---
+
+## (Wissenschaftliches) Schreiben
+
+- insbesondere **SLUBTextLab**
+- Beratungs- und Vermittlungsangebote
+    + Techniken des Schreibens
+        * traditionelle und innovative Beratungsformate
+    + technische Grundlagen
+        * Textverarbeitungsprogramme
+        * XML/TEI
+    + Zitiertechniken und -werkzeuge
+        * Zotero, Mendeley, Citavi, Endnote
+        * unter fachspezifische Gesichtspunkten
+
+---
+
+## Forschungsdatenmanagement
+
+- insbesondere **gemeinsame Kontaktstelle Forschungsdaten**
+- Beratungs- und Vermittlungsangebote
+    + während der Antragsphase
+        * Datenmanagementpläne
+    + während des Forschungsprozesses
+        * Datenverwaltung und Ablagesystematik
+        * geeignte Werkzeuge und Datenbanken
+    + nach Abschluss des Forschungsprozesses
+        * Veröffentlichung von Forschungsdaten
+        * geeignete Repositorien und Metadatenformate
+- Services
+    + Implementierungsaufträge
+        * Werkzeuganpassung
+        * Datenbankschemata
+
+---
+
 class: part-slide
 count: false
 
