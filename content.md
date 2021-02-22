@@ -102,7 +102,7 @@ count: false
 
 ## Informieren und Recherchieren
 
-- bibliothekarisches Kerngeschäft
+- bibliothekarisches Kernaufgabe
 - Werkzeuge
     + Katalog
     + Digitale Sammlungen
@@ -112,6 +112,7 @@ count: false
         * virtuelle Forschungsumgebungen
     + Semestereinführung
     + Graduiertenakademie
+    + ...
 - Services
     + Auftragsrecherchen
     + Kauftipps
