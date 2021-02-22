@@ -250,7 +250,7 @@ count: false
     * SLUB Musicspace
         + Fokus **Musikalien**
         + kreative Auseinandersetzung mit den audio-visuellen Medien der SLUB
-    * SLUB Open Science Lab
+    * Open Science Center
         + Fokus **forschungsnahe Dienste**
         + Services rund um einen offenen Forschungskreislauf
 
@@ -271,7 +271,7 @@ count: false
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
     + curriculare Einbettung
 
-<center><h2>Open Science Lab → Open Science Center</h2><center>
+<center><h2>→ Open Science Center</h2><center>
 
 ---
 
