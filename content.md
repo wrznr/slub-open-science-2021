@@ -121,8 +121,8 @@ count: false
 
 ## (Wissenschaftliches) Schreiben
 
-- insbesondere **SLUB TextLab**
-- Kooperation mit TUD **Schreibzentrum**
+- insbesondere im **SLUB TextLab**
+    + Kooperation mit **TUD Schreibzentrum**
 - Beratungs- und Vermittlungsangebote
     + Techniken des Schreibens
         * traditionelle und innovative Beratungsformate
