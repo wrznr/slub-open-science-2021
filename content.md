@@ -79,12 +79,17 @@ count: false
 
 ## Forschungskreislauf
 
+.cols[
+.forty[
 <center><img src="img/verbindung_forschung-openscience.png" width="300px" /></center>
-
+]
+.sixty[
 - Anpassung existierender Dienstleistungen
 - Ergänzung um bisher fehlende Bereiche
 - Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens
 - Ziel: Infrastruktur für offene Wissenschaften
+]
+]
 
 ---
 
