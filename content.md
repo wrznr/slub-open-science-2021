@@ -167,6 +167,23 @@ count: false
 
 ## Publikationsberatung
 
+- in enger Abstimmung mit dem **Forschungsinformationssystem**
+     + gemeinsames Bibliometriekonzept in Vorbereitung
+- Beratungs- und Vermittlungsangebote
+     + Identifikation geeigneter Publikationsmedien
+         * auf Basis inhaltlicher Angaben und bisheriger Veröffentlichungen
+         * spezieller Fokus auf Bereich *Open Access*
+     + akademisches Identitätsmanagement
+         * ORCID und Co.
+     + *Research Analytics Seminar*
+         * regelmäßiges wissenschaftl. Kolloquium zu Bibliometrie
+- Services
+     + bibliometrische Analysen
+         * Individualevaluation
+         * Publikationsmonitoring
+- Werkzeuge
+     + *Serial Fact Sheet*
+
 ---
 
 ## Open-Access-Transformation
