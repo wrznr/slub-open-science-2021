@@ -80,10 +80,10 @@ count: false
 ## Forschungskreislauf
 
 .cols[
-.forty[
+.fifty[
 <center><img src="img/forschungskreislauf.png" width="300px" /></center>
 ]
-.sixty[
+.fifty[
 - Anpassung existierender Services
 - perspektivisch Ergänzung um fehlende Bereiche
 - Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens
