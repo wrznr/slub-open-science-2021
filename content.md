@@ -140,7 +140,7 @@ count: false
 
 - Referat *Open Education*
 - Kooperation mit **ZiLL** zu OER-Beratung
-- [„OER-Manifest“](https://slub.github.io/oer-display/assets/img/OER.pdf) und [FAQ](https://slub.github.io/oer-display/assets/img/OER-FAQ.pdf)
+- [OER-Empfehlung](https://slub.github.io/oer-display/assets/img/OER.pdf) und [FAQ](https://slub.github.io/oer-display/assets/img/OER-FAQ.pdf)
     + im Ratifizierungsprozess
     + parallel zu Open-Access-Resolution
 - Beratungs- und Vermittlungsangebote
