@@ -48,8 +48,8 @@ count: false
 - Motivation
 - Überblick über existierende Services an der SLUB
     + *Open Education*
-    + *Open Access*
     + *Open Evaluation*
+    + *Open Access*
     + *Open Data*
     + *Citizen Science*
 - die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
@@ -113,7 +113,7 @@ count: false
 
 ## (Wissenschaftliches) Schreiben
 
-- insbesondere **SLUBTextLab**
+- insbesondere **SLUB TextLab**
 - Beratungs- und Vermittlungsangebote
     + Techniken des Schreibens
         * traditionelle und innovative Beratungsformate
@@ -123,6 +123,25 @@ count: false
     + Zitiertechniken und -werkzeuge
         * Zotero, Mendeley, Citavi, Endnote
         * unter fachspezifische Gesichtspunkten
+    + Blog: [textlab.hypotheses.org](https://textlab.hypotheses.org/)
+
+---
+
+## Offene Lehr- und Lernmaterialien
+
+- Referat *Open Education*
+- Kooperation mit **ZiLL**
+- [„OER-Manifest“](https://slub.github.io/oer-display/assets/img/OER.pdf) und [FAQ](https://slub.github.io/oer-display/assets/img/OER-FAQ.pdf)
+    + im Ratifizierungsprozess
+    + parallel zu Open-Access-Resolution
+- Beratungs- und Vermittlungsangebote
+    + Produktion und Lizenzmanagement von OER
+    + didaktische und technische Grundlagen
+- Werkzeuge
+    + [OER-Display](https://slub.github.io/oer-display)
+- Services
+    + Räumlichkeiten
+    + Aufnahmetechnik
 
 ---
 
