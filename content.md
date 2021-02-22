@@ -75,14 +75,16 @@ count: false
 > und Publizieren oder zur Wirkungsanalyse von Publikationen.
 
 
-- Anpassung existierender Dienstleistungen
-- Ergänzung um bisher fehlende Bereiche
-
 ---
 
 ## Forschungskreislauf
 
 <center><img src="img/verbindung_forschung-openscience.png" width="300px" /></center>
+
+- Anpassung existierender Dienstleistungen
+- Ergänzung um bisher fehlende Bereiche
+- Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens
+- Ziel: Infrastruktur für offene Wissenschaften
 
 ---
 
