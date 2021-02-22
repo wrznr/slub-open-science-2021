@@ -47,20 +47,71 @@ count: false
 
 - Motivation
 - Überblick über existierende Services an der SLUB
-    + Open Education
-    + Open Access
-    + Open Evaluation
-    + Open Data
-    + Citizen Science
-- das Open Science Lab als Plattform für eine offene Wissenschaftskultur
+    + *Open Education*
+    + *Open Access*
+    + *Open Evaluation*
+    + *Open Data*
+    + *Citizen Science*
+- die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
 - das Open Science Lab als Ort der Begegnung
+- Perspektiven für ein gemeinsames **Open Science Center**
 
 ---
 
 class: part-slide
 count: false
 
-# Topic 1
+# Motivation
+
+---
+
+## Grundlage
+
+- Strategiepapier SLUB 2025:
+
+> Die SLUB definiert ihre Aufgaben entlang des gesamten
+> Forschungskreislaufs und fördert den Transformationsprozess
+> zu Open Science durch Dienstleistungen und Werkzeuge zum
+> Forschungsdatenmanagement, zum wissenschaftlichen Schreiben
+> und Publizieren oder zur Wirkungsanalyse von Publikationen.
+
+
+- Anpassung existierender Dienstleistungen
+- Ergänzung um bisher fehlende Bereiche
+
+---
+
+## Forschungskreislauf
+
+<center><img src="img/verbindung_forschung-openscience.png" width="300px" /></center>
+
+---
+
+class: part-slide
+count: false
+
+# Überblick über existierende Services an der SLUB
+
+---
+
+class: part-slide
+count: false
+
+# Plattform für eine offene Wissenschaftskultur
+
+---
+
+class: part-slide
+count: false
+
+# Ort der Begegnung
+
+---
+
+class: part-slide
+count: false
+
+# Perspektiven für ein gemeinsames *Open Science Center*
 
 ---
 
