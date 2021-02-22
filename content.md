@@ -114,6 +114,7 @@ count: false
 ## (Wissenschaftliches) Schreiben
 
 - insbesondere **SLUB TextLab**
+- Kooperation mit TUD **Schreibzentrum**
 - Beratungs- und Vermittlungsangebote
     + Techniken des Schreibens
         * traditionelle und innovative Beratungsformate
@@ -130,7 +131,7 @@ count: false
 ## Offene Lehr- und Lernmaterialien
 
 - Referat *Open Education*
-- Kooperation mit **ZiLL**
+- Kooperation mit **ZiLL** zu OER-Beratung
 - [„OER-Manifest“](https://slub.github.io/oer-display/assets/img/OER.pdf) und [FAQ](https://slub.github.io/oer-display/assets/img/OER-FAQ.pdf)
     + im Ratifizierungsprozess
     + parallel zu Open-Access-Resolution
@@ -140,15 +141,15 @@ count: false
 - Werkzeuge
     + [OER-Display](https://slub.github.io/oer-display)
 - Services
-    + Räumlichkeiten
-    + Aufnahmetechnik
+    + buchbare Räumlichkeiten
+    + extern nutzbare Aufnahme- und Präsentationstechnik
 
 ---
 
 ## Forschungsdatenmanagement
 
 - insbesondere **gemeinsame Kontaktstelle Forschungsdaten**
-- Beteiligung an **NFDI4Culture** und **NFDI4Ing**
+- darüberhinaus Beteiligung an **NFDI4Culture** und **NFDI4Ing**
 - Beratungs- und Vermittlungsangebote
     + während der Antragsphase
         * Datenmanagementpläne
@@ -226,24 +227,25 @@ count: false
 class: part-slide
 count: false
 
-# Plattform für eine offene Wissenschaftskultur
+# Plattform für eine offene Wissenskultur
 
 ---
 
-## Lab-Landschaft
+## SLUB Lab-Landschaft
 
-- SLUB TextLab
-    + Fokus **textuelle Materialien**
-    + wissenschaftliches Schreiben (und Lesen)
-- SLUB Makerspace
-    + Fokus **Werkstoffe und Technik**
-    + offene Werkstatt und Kreativraum
-- SLUB Musicspace
-    + Fokus **Musikalien**
-    + kreative Auseinandersetzung mit den audio-visuellen Medien der SLUB
-- SLUB Open Science Lab
-    + Fokus **forschungsnahe Dienste**
-    + Services rund um einen offenen Forschungskreislauf
+- Labs als räumliche Manifestation einer offenen, partizipativen Wissenskultur
+    * SLUB TextLab
+        + Fokus **textuelle Materialien**
+        + wissenschaftliches Schreiben (und Lesen)
+    * SLUB Makerspace
+        + Fokus **Werkstoffe und Technik**
+        + offene Werkstatt und Kreativraum
+    * SLUB Musicspace
+        + Fokus **Musikalien**
+        + kreative Auseinandersetzung mit den audio-visuellen Medien der SLUB
+    * SLUB Open Science Lab
+        + Fokus **forschungsnahe Dienste**
+        + Services rund um einen offenen Forschungskreislauf
 
 ---
 
