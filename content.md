@@ -263,7 +263,7 @@ count: false
 
 ---
 
-## Perspektive für ein gemeinsames *Open Science Center*
+## gemeinsames *Open Science Center*
 
 <center><img src="img/forschungskreislauf.png" width="300px" /></center>
 
@@ -273,7 +273,7 @@ count: false
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
     + curriculare Einbettung
 
-<center><b>Open Science Lab → Open Science Center</b><center>
+<center><h2>Open Science Lab → Open Science Center</h2><center>
 
 ---
 
