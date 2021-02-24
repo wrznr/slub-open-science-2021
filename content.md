@@ -54,6 +54,7 @@ count: false
     + *Citizen Science*
 - die Labs der SLUB als Plattform für eine offene Wissenschaftskultur
 - Perspektive für ein gemeinsames **Open Science Center**
+- Status **Bauplanung**
 
 ---
 
@@ -255,6 +256,26 @@ count: false
     + curriculare Einbettung
 
 <center><h2>→ Open Science Center</h2><center>
+
+---
+
+class: part-slide
+count: false
+
+# Bauplanungen
+
+---
+
+# Status Bauplanungen
+
+- Einbettung des Bereiches *Open Science* in Bibliothek Bergstr. (von-Gerber-Bau)
+- bauliche Ertüchtigung bis 2024
+    + Umzug Bibliothek nach Zell21 (Barmergebäude)
+- attraktiver Ort direkt an der Campusachse dann ab 2024
+- jeweils gute räumliche Möglichkeiten
+        * Co-Working Space
+        * buchbare Räume
+        * Open-Science-Theke
 
 ---
 
