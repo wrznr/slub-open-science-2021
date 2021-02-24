@@ -38,7 +38,7 @@ layout: true
 class: title-slide
 count: false
 
-# Das SLUB *Open Science Lab*
+# *Open Science* an der SLUB
 ## Services rund um einen offenen Forschungskreislauf
 
 ---
@@ -80,10 +80,10 @@ count: false
 ## Forschungskreislauf
 
 .cols[
-.fifty[
-<center><img src="img/forschungskreislauf.png" width="300px" /></center>
+.sixty[
+<center><img src="img/research_cycle.jpg" width="300px" /></center>
 ]
-.fifty[
+.fourty[
 - Anpassung existierender Services
 - perspektivisch Ergänzung um fehlende Bereiche
 - Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens

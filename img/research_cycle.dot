@@ -1,0 +1,26 @@
+digraph G {
+     one [label="Informieren und Recherchieren", shape=box, style=filled];
+     two [label="Forschungsprozess", style=dotted, shape=box];
+     three [label="Offene Lehr- und Lernmaterialien", shape=box, style=filled];
+     four [label="Publikationsberatung", shape=box, style=filled];
+     five [label="Forschungsdatenmanagement", shape=box, style=filled];
+     six [label="OA-Transformation", shape=box, style=filled];
+     seven [label="Open-Source-Beratung", style=dashed, shape=box];
+     eight [label="Reproducible Science", style=bold, shape=box];
+     nine [label="gesamtgesellschaftlicher Transfer", shape=box, style=filled];
+     nine -> two [label="Partizipation"];
+     two -> nine;
+     eight -> nine;
+     three -> eight;
+     one -> two [label="Forschung"];
+     one -> three [label="Lehre"];
+     two -> four [label="Publikation"];
+     two -> five [label="Daten"];
+     two -> seven [label="Quellcode", style=dashed];
+     seven -> eight;
+     six -> eight;
+     five -> eight;
+     four -> six;
+     eight -> one [label="Archivierung"];
+
+}
