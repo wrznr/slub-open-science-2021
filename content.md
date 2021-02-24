@@ -79,7 +79,7 @@ count: false
 
 ## Forschungskreislauf
 
-<center><img src="img/research_cycle.jpg" width="400px" /></center>
+<center><img src="img/research_cycle.jpg" width="600px" /></center>
 
 - Anpassung existierender Services
 - perspektivisch Ergänzung um fehlende Bereiche
@@ -108,14 +108,12 @@ count: false
     + Auftragsrecherchen
     + Kauftipps
 
-<center><h4>bibliothekarische Kernaufgabe</h4><center>
+<center><h3>bibliothekarische Kernaufgabe</h3><center>
 
 ---
 
 ## (Wissenschaftliches) Schreiben
 
-- insbesondere im **SLUB TextLab**
-    + Kooperation mit **TUD Schreibzentrum**
 - Beratungs- und Vermittlungsangebote
     + Techniken des Schreibens
         * traditionelle und innovative Beratungsformate
@@ -126,15 +124,15 @@ count: false
         * unter fachspezifische Gesichtspunkten
     + Blogging: [textlab.hypotheses.org](https://textlab.hypotheses.org/)
 
+<center><h3>SLUB TextLab &amp; TUD Schreibzentrum</h3><center>
+
 ---
 
 ## Offene Lehr- und Lernmaterialien
 
-- Referat *Open Education*
-- Kooperation mit **ZiLL** zu OER-Beratung
 - [OER-Empfehlung](https://slub.github.io/oer-display/assets/img/OER.pdf) und [FAQ](https://slub.github.io/oer-display/assets/img/OER-FAQ.pdf)
-    + im Ratifizierungsprozess
     + parallel zu Open-Access-Resolution
+    + im Ratifizierungsprozess
 - Beratungs- und Vermittlungsangebote
     + Produktion und Lizenzmanagement von OER
     + didaktische und technische Grundlagen
@@ -144,12 +142,12 @@ count: false
     + buchbare Räumlichkeiten
     + extern nutzbare Aufnahme- und Präsentationstechnik
 
+<center><h3>Ref. Open Education &amp; ZiLL</h3><center>
+
 ---
 
 ## Forschungsdatenmanagement
 
-- insbesondere **gemeinsame Kontaktstelle Forschungsdaten**
-- darüberhinaus Beteiligung an **NFDI4Culture** und **NFDI4Ing**
 - Beratungs- und Vermittlungsangebote
     + während der Antragsphase
         * Datenmanagementpläne
@@ -157,19 +155,17 @@ count: false
         * Datenverwaltung und Ablagesystematik
         * geeignte Werkzeuge und Datenbanken
     + nach Abschluss des Forschungsprozesses
-        * Veröffentlichung von Forschungsdaten
-        * geeignete Repositorien und Metadatenformate
+        * Veröffentlichung von Forschungsdaten in geeigneten Repositorien
 - Services
     + Implementierungsaufträge
-        * Werkzeuganpassung
-        * Datenbankschemata
+        * Werkzeuganpassung, Datenbankschemata ...
+
+<center><h3>gemeinsame Kontaktstelle FD</h3><center>
 
 ---
 
 ## Publikationsberatung
 
-- in enger Abstimmung mit dem **Forschungsinformationssystem**
-     + gemeinsames Bibliometriekonzept in Vorbereitung
 - Beratungs- und Vermittlungsangebote
      + Identifikation geeigneter Publikationsmedien
          * auf Basis inhaltlicher Angaben und bisheriger Veröffentlichungen
@@ -183,43 +179,41 @@ count: false
          * Individualevaluation
          * Publikationsmonitoring
 
+<center><h3>Team Bibliometrie &amp; FIS</h3><center>
+
 ---
 
 ## Open-Access-Transformation
 
-- Schwerpunkt im **Bestandsaufbau**
 - Beratungs- und Vermittlungsangebote
-    + regelmäßige Vortragstätikeit z.B.
-        * Open-Access-Tage
-        * Graduiertenakademie
+    + regelmäßige Vortragstätikeit z.B. **Open-Access-Week**
     + *Predatory Publishing*
 - Services
-    + Finanzierung von Open-Access-Publikationen
-        * Zeitschriften und Monographien
+    + Finanzierung von Open-Access-Publikationen (auch Monographien)
 - Werkzeuge
-    + *Qucosa*
-        * (Zweit-)Veröffentlichungsplattform
-        * Dissertationen, Studienarbeiten
+    + *Qucosa* und
     + *Qucosa Journals*
         * OJS-basierte Plattform für OA-Zeitschriften
+
+<center><h3>Schwerpunkt im **Bestandsaufbau**</h3><center>
 
 ---
 
 ## gesamtgesellschaftlicher Transfer
 
-- Doppelfunktion als Universitäts- und **Landesbibliothek**
 - traditionell breites Spektrum an Nutzenden
     + Zugriff auf **bürgerwissenschaftliche** Kontexte
 - Beratungs- und Vermittlungsangebote
     + alle Angebote offen
     + Hackathons, Transcibathons
-        * *Sachsen at Work*
-        * *Coding da Vinci* 2022
+        * *Sachsen at Work*, *Coding da Vinci* 2022 ...
     + *Wikisource*-Beratung
     + Dresdner Seniorenakademie
 - Werkzeuge z.B.
     + virtuelles Kartenforum
         * kollaborative Georeferenzierung historischer Karten
+
+<center><h3>Querschnittsthema in vielfältigen Koops</h3><center>
 
 ---
 
@@ -254,7 +248,7 @@ count: false
 
 <center><img src="img/research_cycle.jpg" width="400px" /></center>
 
-- Kreis gemeinsam schließen!
+- Kreis gemeinsam vervollständigen!
     + Verbindung der Beratungsangebote der TUD mit denen der SLUB
     + Berücksichtigung fachspezifischer Aspekte in Ergänzung zur
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
