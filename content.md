@@ -273,9 +273,9 @@ count: false
     + Umzug Bibliothek nach Zell21 (Barmergebäude)
 - attraktiver Ort direkt an der Campusachse dann ab 2024
 - jeweils gute räumliche Möglichkeiten
-        * Co-Working Space
-        * buchbare Räume
-        * Open-Science-Theke
+    * Co-Working Space
+    * buchbare Räume
+    * Open-Science-Theke
 
 ---
 
