@@ -248,9 +248,9 @@ count: false
 
 <center><img src="img/research_cycle.jpg" width="400px" /></center>
 
-- Kreis gemeinsam vervollständigen!
+- Portfolio gemeinsam vervollständigen!
     + Verbindung der Beratungsangebote der TUD mit denen der SLUB
-    + Berücksichtigung fachspezifischer Aspekte in Ergänzung zur
+    + Berücksichtigung **fachspezifischer Aspekte** in Ergänzung zur
     + fächerübergreifenden Methodik des wissenschaftlichen Arbeitens
     + curriculare Einbettung
 
