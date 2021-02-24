@@ -79,17 +79,11 @@ count: false
 
 ## Forschungskreislauf
 
-.cols[
-.sixty[
-<center><img src="img/research_cycle.jpg" width="300px" /></center>
-]
-.fourty[
+<center><img src="img/research_cycle.jpg" width="400px" /></center>
+
 - Anpassung existierender Services
 - perspektivisch Ergänzung um fehlende Bereiche
-- Orientierung an den fächerübergreifenden Aspekten wissenschaftlichen Arbeitens
 - Ziel: Infrastruktur für offene Wissenschaften
-]
-]
 
 ---
 
@@ -102,7 +96,6 @@ count: false
 
 ## Informieren und Recherchieren
 
-- bibliothekarisches Kernaufgabe
 - Werkzeuge
     + Katalog
     + Digitale Sammlungen
@@ -110,12 +103,12 @@ count: false
     + Wissensbar u.a.
         * themenspezifische Recherche (Fachreferenten)
         * virtuelle Forschungsumgebungen
-    + Semestereinführung
-    + Graduiertenakademie
-    + ...
+    + Semestereinführung, Graduiertenakademie ...
 - Services
     + Auftragsrecherchen
     + Kauftipps
+
+<center><h4>bibliothekarische Kernaufgabe</h4><center>
 
 ---
 
@@ -127,12 +120,11 @@ count: false
     + Techniken des Schreibens
         * traditionelle und innovative Beratungsformate
     + technische Grundlagen
-        * Textverarbeitungsprogramme
-        * XML/TEI
+        * Textverarbeitungsprogramme, XML/TEI ...
     + Zitiertechniken und -werkzeuge
         * Zotero, Mendeley, Citavi, Endnote
         * unter fachspezifische Gesichtspunkten
-    + Blog: [textlab.hypotheses.org](https://textlab.hypotheses.org/)
+    + Blogging: [textlab.hypotheses.org](https://textlab.hypotheses.org/)
 
 ---
 

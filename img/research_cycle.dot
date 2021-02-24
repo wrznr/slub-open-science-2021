@@ -6,7 +6,7 @@ digraph G {
      five [label="Forschungsdatenmanagement", shape=box, style=filled];
      six [label="OA-Transformation", shape=box, style=filled];
      seven [label="Open-Source-Beratung", style=dashed, shape=box];
-     eight [label="Reproducible Science", style=bold, shape=box];
+     eight [label="Open Science", style=bold, shape=box];
      nine [label="gesamtgesellschaftlicher Transfer", shape=box, style=filled];
      nine -> two [label="Partizipation"];
      two -> nine;
