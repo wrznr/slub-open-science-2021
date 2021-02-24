@@ -252,7 +252,7 @@ count: false
 
 ---
 
-<center><img src="img/forschungskreislauf.png" width="350px" /></center>
+<center><img src="img/research_cycle.jpg" width="400px" /></center>
 
 - Kreis gemeinsam schließen!
     + Verbindung der Beratungsangebote der TUD mit denen der SLUB
